@@ -76,7 +76,6 @@
     "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1",
     "babel-loader": "^8.2.3",
-    "babel-polyfill": "^6.26.0",
     "babel-plugin-add-import-extension": "^1.6.0",
     "babel-plugin-transform-inline-environment-variables": "^0.4.4",
     "chai": "^4.3.4",
@@ -111,7 +110,7 @@
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
-    "@babel/runtime": "^7.16.7",
+    "@babel/runtime": "^7.20.13",
     "@types/jsonwebtoken": "^9.0.1",
     "@types/qs": "^6.9.7",
     "axios": "^0.22.0",
